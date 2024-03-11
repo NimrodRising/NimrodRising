@@ -3,7 +3,10 @@ My name is Sean O'Gary. I am an aspiring software engineer (and perhaps designer
 
 🙏 looking for a job! \
 🚀 learning full time! \
-📖 **currently reading**: Refactoring: Improving Existing Code (great book) \
+📖 **currently reading**: 
+- Refactoring: Improving Existing Code
+- The Pragmatic Programmer
+- Grokking Algorithms
 🗨️ ask me about my current project, P2P Chess (better name forthcoming) \
 ⚡Fun Fact: I *NEVER* GIVE UP
 

@@ -6,9 +6,9 @@ My name is Sean O'Gary. I am an aspiring software engineer (and perhaps designer
 🗨️ ask me about my current project, P2P Chess (better name forthcoming) \
 ⚡Fun Fact: I *NEVER* GIVE UP \
 📖 **currently reading**: 
-- Refactoring: Improving Existing Code
+- Refactoring: Improving the Design of Existing Code
 - The Pragmatic Programmer
-- Grokking Algorithms \
+- Grokking Algorithms 
 
 
 <!--

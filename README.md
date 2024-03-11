@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hi, hello there! 👋
 My name is Sean O'Gary. I am an aspiring software engineer (and perhaps designer? probably should be...). I love programming for the web, playing chess and Go, reading about math / physics, and listening to and *attempting* to write music. 
 
 🙏 looking for a job! \

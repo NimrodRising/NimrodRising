@@ -1,11 +1,11 @@
 ### Hello! 👋
 My name is Sean O'Gary. I am an aspiring software engineer (and perhaps designer? probably should be...). I love programming for the web, playing chess and Go, reading about math / physics, and listening to and *attempting* to write music. 
 
-- 🙏 looking for a job!
-- 🚀 learning full time
-- 📖 currently reading: Refactoring: Improving Existing Code (great book)
-- 🗨️ ask me about my current project, P2P Chess (better name forthcoming)
-- ⚡Fun Fact: I NEVER GIVE UP
+🙏 looking for a job!
+🚀 learning full time
+📖 currently reading: Refactoring: Improving Existing Code (great book)
+🗨️ ask me about my current project, P2P Chess (better name forthcoming)
+⚡Fun Fact: I NEVER GIVE UP
 
 <!--
 **NimrodRising/NimrodRising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
